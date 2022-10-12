@@ -15,7 +15,7 @@ tic;
 % CAUTION: all the files and directories other than Path in this folder will be deleted.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Path='Comp1';
+Path='Comp';
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The *.mod or *.mat files would be determined here
@@ -65,14 +65,12 @@ VList{2}='@';
 
 SList{1}='e_pi';
 SList{2}='@';
-%%SList{3}='@';
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Title of each model
 
 Tmod{1}='Optimal Policy';
 Tmod{2}='Discretionary Policy';
-%%Tmod{3}='Rule-based Policy';
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Extra Image file
